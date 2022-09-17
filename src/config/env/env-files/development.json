@@ -1,0 +1,7 @@
+{
+    "envName": "Development",
+    "port": 9000,
+    "db_connectionString": {
+        "db": "mongodb://localhost:27017/SocialMedia"
+    }
+}
