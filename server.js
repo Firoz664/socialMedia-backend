@@ -6,7 +6,7 @@ connectDB();
 const PORT = 9000
 
 app.get('/', (req, res) => {
-  res.send('hello world new latest' )
+  res.send('hello world new latest firoz' )
 })
 
 
